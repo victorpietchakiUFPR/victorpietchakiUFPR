@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**victorpietchakiUFPR/victorpietchakiUFPR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to have you here!
 
-Here are some ideas to get you started:
+# About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Currently studying **Statistics and Data Science** at UFPR (Curitiba, Parana, Brazil)
+  > jan/2024 dez/2027
+
++ I hope that you can see more and more repositories on this profile in a brief future
+  > Python, R, Power BI and SQL
+
+> This is my __student__ github profile. You can also check my personal profile [here](https://github.com/JoaoV-PGoncalves)
+
+# Contact Info
++ joaovictorpiet@gmail.com  /  victorpietchaki@ufpr.br
+
++ [LinkedIn](https://www.linkedin.com/in/joaovictorpiet/)
